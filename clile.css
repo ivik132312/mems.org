@@ -58,3 +58,28 @@
     width: 200px;
     height: 200px;
 }
+.beast{
+    width: 200px;
+    height: 200px;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,166,0,1) 12%, rgba(238,231,0,1) 26%, rgba(5,255,0,1) 41%, rgba(0,238,223,1) 57%, rgba(0,29,238,1) 73%, rgba(238,0,201,1) 88%);
+}
+a{
+    cursor: pointer;
+}
+img:hover{
+    width: 250px;
+    height: 250px;
+}
+.blyat{
+    width: 200px;
+    height: 200px;
+}
+.aly{
+    width: 200px;
+    height: 200px;
+}
